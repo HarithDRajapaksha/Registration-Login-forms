@@ -1,3 +1,12 @@
+#View01
+![Screenshot (259)](https://github.com/user-attachments/assets/18602cf8-5118-4d06-b0ce-e8dd8c4d7d50)
+
+
+#View02
+![Screenshot (258)](https://github.com/user-attachments/assets/7b2e2467-7f40-4dac-880e-1d3b59d7f97d)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
